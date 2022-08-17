@@ -13,11 +13,12 @@ Technologies: Spring boot, HTML, CSS, AWS, Digital Ocean, Mongodb Atlas
 
 Main page
 
-<img width="502" alt="Screen Shot 2022-08-17 at 2 39 55 AM" src="https://user-images.githubusercontent.com/64993553/185091720-7b33c043-9653-4903-865b-aaa1f97f7a75.png">
+<img width="1269" alt="Screen Shot 2022-08-17 at 2 41 20 AM" src="https://user-images.githubusercontent.com/64993553/185091906-1d2a20e7-94b5-423e-a845-9ce15cc87c1b.png">
 
 Users can add, delete and update audio files
 
-<img width="1269" alt="Screen Shot 2022-08-17 at 2 41 20 AM" src="https://user-images.githubusercontent.com/64993553/185091906-1d2a20e7-94b5-423e-a845-9ce15cc87c1b.png">
+<img width="508" alt="Screen Shot 2022-08-17 at 3 36 47 AM" src="https://user-images.githubusercontent.com/64993553/185098722-d08d0fdb-cc96-419b-8e83-fe90b7a47c6e.png">
+
 
 This is a Restfull API build with the help of Spring boot any platforms which can request http can use this service.
 
