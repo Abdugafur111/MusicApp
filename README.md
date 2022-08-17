@@ -9,7 +9,7 @@ Activities: Design of classes and interfaces. Object-oriented design methodologi
 Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering
 concepts and tools. Requirements: Java Development Kit <= 11.
 
-Technologies: Spring boot, HTML, CSS, JS, AWS, Digital Ocean, Mongodb Atlas
+Technologies: Spring boot, HTML, CSS, AWS, Digital Ocean, Mongodb Atlas
 
 Main page
 
