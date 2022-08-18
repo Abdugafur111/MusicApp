@@ -15,6 +15,10 @@ Main page
 
 <img width="1269" alt="Screen Shot 2022-08-17 at 2 41 20 AM" src="https://user-images.githubusercontent.com/64993553/185091906-1d2a20e7-94b5-423e-a845-9ce15cc87c1b.png">
 
+
+https://user-images.githubusercontent.com/64993553/185278417-d69e7c48-aeb5-455a-be83-397911422086.mov
+
+
 Users can add, delete and update audio files
 
 <img width="508" alt="Screen Shot 2022-08-17 at 3 36 47 AM" src="https://user-images.githubusercontent.com/64993553/185098722-d08d0fdb-cc96-419b-8e83-fe90b7a47c6e.png">
