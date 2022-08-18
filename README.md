@@ -11,6 +11,11 @@ concepts and tools. Requirements: Java Development Kit <= 11.
 
 Technologies: Spring boot, HTML, CSS, AWS, Digital Ocean, Mongodb Atlas
 
+
+
+
+<img width="878" alt="Screen Shot 2022-08-17 at 3 27 28 AM" src="https://user-images.githubusercontent.com/64993553/185096917-fd7671ba-2b95-4b7a-9802-8cdcf77a57b8.png">
+
 Main page
 
 <img width="1269" alt="Screen Shot 2022-08-17 at 2 41 20 AM" src="https://user-images.githubusercontent.com/64993553/185091906-1d2a20e7-94b5-423e-a845-9ce15cc87c1b.png">
@@ -30,6 +35,3 @@ This is a Restfull API build with the help of Spring boot any platforms which ca
 
 https://user-images.githubusercontent.com/64993553/185280507-f5f803d1-d8bc-48f5-bb8b-4032fb2102fe.mov
 
-
-
-<img width="878" alt="Screen Shot 2022-08-17 at 3 27 28 AM" src="https://user-images.githubusercontent.com/64993553/185096917-fd7671ba-2b95-4b7a-9802-8cdcf77a57b8.png">
