@@ -3,7 +3,7 @@ Date: August 16, 2022
 
 Product Name: MusicApp
 
-Problem Statement: MusicApp is the web application where users can add, delete or update music.
+Problem Statement: MusicApp is the web application for listening music.
 
 Activities: Design of classes and interfaces. Object-oriented design methodologies and notations. Design patterns. 
 Generics and reflection. Exception handling. Concurrent programming. Graphical user interface programming. Software engineering
