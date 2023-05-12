@@ -22,7 +22,6 @@ Main page
 
 
 
-https://github.com/Abdugafur111/MusicApp/assets/64993553/38063d90-64a7-46a2-8950-d33a7b1f93cf.mov
 
 
 https://user-images.githubusercontent.com/64993553/185278417-d69e7c48-aeb5-455a-be83-397911422086.mov
